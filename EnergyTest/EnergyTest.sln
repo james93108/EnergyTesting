@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnergyTest", "EnergyTest.csproj", "{7007D3A3-581C-49A7-8F58-BCDA75A12930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyTest.Tests", "..\EnergyTest.Tests\EnergyTest.Tests.csproj", "{FF000891-5CA0-41DC-824A-DAB602460160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7007D3A3-581C-49A7-8F58-BCDA75A12930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7007D3A3-581C-49A7-8F58-BCDA75A12930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7007D3A3-581C-49A7-8F58-BCDA75A12930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7007D3A3-581C-49A7-8F58-BCDA75A12930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF000891-5CA0-41DC-824A-DAB602460160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF000891-5CA0-41DC-824A-DAB602460160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF000891-5CA0-41DC-824A-DAB602460160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF000891-5CA0-41DC-824A-DAB602460160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9C841D-93BB-4227-9545-798EDA32BDF3}
+	EndGlobalSection
+EndGlobal
